@@ -131,7 +131,7 @@ SET11 | SetDHWTemp | Set DHW target temperature | 40 - 75
 SET12 | SetForceDefrost | Forces defrost routine | 0, 1
 SET13 | SetForceSterilization | Forces DHW sterilization routine | 0, 1
 SET14 | SetPump | Set Water Pump to service mode, max speed | 0, 1
-SET15 | SetPumpSpeed | Set max Water Pump speed in service menu | decimal value translate to hexadecimal in service menu <br/>64 to 254
+SET15 | SetPumpSpeed | Set max Water Pump speed in service menu | decimal value translate to hexadecimal in service menu <br/>64 to 254 Default 150
 
 
 
